@@ -1,6 +1,6 @@
 # Human-Capital-Analytics-Consulting-Project---Predictive-Modelling-to-assess-Leadership-Effectiveness
 # Objective
-Built a statistical model (random forest classifier) with 97% accuracy to predict leadership effectiveness, identified opportunities to improve managerial capabilities aiding in leadership strategy development.
+To predict leadership effectiveness of a manager
 
 # Outcome:
 Built a statistical model (random forest classifier) with 96% accuracy to predict leadership effectiveness, identified opportunities to improve managerial capabilities aiding in leadership strategy development
